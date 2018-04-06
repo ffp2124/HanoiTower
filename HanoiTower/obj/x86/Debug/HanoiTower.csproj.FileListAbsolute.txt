@@ -1,0 +1,9 @@
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\bin\Debug\HanoiTower.pdb
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csprojResolveAssemblyReference.cache
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.MainForm.resources
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.Properties.Resources.resources
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csproj.GenerateResource.cache
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.exe
+E:\desktop\New folder (2)\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.pdb
